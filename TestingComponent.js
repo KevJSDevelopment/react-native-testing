@@ -1,10 +1,13 @@
 import React from 'react'
+import { View, Text } from 'react-native'
 
 const testingComponent = () => {
     return (
-        <div>
-            
-        </div>
+        <View>
+            <Text>
+                Test Component
+            </Text>
+        </View>
     )
 }
 
