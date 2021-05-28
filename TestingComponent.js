@@ -1,7 +1,7 @@
 import React from 'react'
 import { View, Text } from 'react-native'
 
-const testingComponent = () => {
+const TestingComponent = () => {
     return (
         <View>
             <Text>
@@ -11,4 +11,4 @@ const testingComponent = () => {
     )
 }
 
-export default testingComponent
+export default TestingComponent
